@@ -7,10 +7,6 @@
 
 <p align="center">
   <a href="mailto:nvirdi567@gmail.com"><img src="https://img.shields.io/badge/Email-nvirdi567%40gmail.com-A31545?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- TODO: paste your LinkedIn URL between the quotes below -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-2C5670?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- TODO: paste your LeetCode profile URL between the quotes below -->
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-A8600F?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
 ---
@@ -28,7 +24,7 @@ I care about the parts that usually get skipped: tests for the lifecycle paths t
 break, architecture decisions written down while they're still fresh, and knowing when a
 system should abstain instead of guessing wrong.
 
-Engineering student in Bangalore.
+Computer Science engineering student at Sir M. Visvesvaraya Institute of Technology, Bangalore.
 
 ---
 
