@@ -24,7 +24,7 @@ I care about the parts that usually get skipped: tests for the lifecycle paths t
 break, architecture decisions written down while they're still fresh, and knowing when a
 system should abstain instead of guessing wrong.
 
-Computer Science engineering student at Sir M. Visvesvaraya Institute of Technology, Bangalore.
+Third-year B.E. student in Computer Science &amp; Engineering at Sir M. Visvesvaraya Institute of Technology, Bangalore.
 
 ---
 
@@ -41,7 +41,7 @@ and private evidence. Accusations are scored on the *reasoning* behind them, not
 - **Solvability validator** — every generated case is proven solvable before it ships to players
 - **Disconnect detection with a reconnect grace window**, so a dropped connection doesn't end the match
 - Rendered on a raw HTML5 canvas — no game engine
-- Test suites covering room lifecycle, movement, interrogation, accusation and case validation
+- 10 server test suites (room lifecycle, movement, interrogation, accusation, case validation) run in GitHub Actions on every push
 
 ### Diagnostic Price Transparency
 **Hyperlocal medical test price comparison for Bengaluru.** `Python`
@@ -62,7 +62,8 @@ is React 19 + Vite with a WhatsApp booking hand-off.
 **Full-stack AI fitness platform.** `Next.js 15` `FastAPI` `PostgreSQL`
 
 JWT authentication, a Postgres-backed API, and optional Gemini Vision integration for
-food analysis.
+food analysis. 45 pytest cases in CI cover authentication, token rejection and
+per-user data privacy.
 
 ---
 
@@ -91,10 +92,3 @@ food analysis.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naman9245&show_icons=true&hide_border=true&title_color=A31545&icon_color=2C5670&count_private=true" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman9245&layout=compact&hide_border=true&title_color=A31545&langs_count=6" alt="Top languages" height="150">
-</p>
