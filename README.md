@@ -51,12 +51,13 @@ inconsistent across labs, and the core problem is resolving them onto a canonica
 or **abstaining** when confidence is too low. A wrong match on a medical price is worse than
 no match at all.
 
-### Liquid Sky
-**Two production restaurant sites.** `TypeScript` `React` `Node` `SQLite`
+### [Liquid Sky](https://github.com/Naman9245/liquid-sky-aurora)
+**QR table ordering and website for a Bengaluru restaurant.** `Node.js` `Express` `Socket.IO` `SQLite`
 
-The dark variant runs on a **zero-dependency Node + SQLite backend** serving live pricing,
-sold-out state, and recorded bookings — no framework, no ORM, deliberately. The light variant
-is React 19 + Vite with a WhatsApp booking hand-off.
+Diners order from their phone by scanning a table's QR code, and tickets reach each kitchen
+station live. Kitchen tablets that drop wifi replay what they missed from an append-only event
+log. Orders are idempotent and priced by the server, GST invoices are calculated in integer
+paise and never rewritten, and the menu is served in English, Hindi and Kannada.
 
 ### AURA FIT AI
 **Full-stack AI fitness platform.** `Next.js 15` `FastAPI` `PostgreSQL`
